@@ -11,7 +11,9 @@
 A cinematic, highly interactive analog clock inspired by the dark Norse mythology of the **God of War** universe. Built entirely with vanilla web technologies, this project focuses on smooth physics, custom cursor tracking, and atmospheric styling.
 
 > *"Do not be sorry. Be better."* — Kratos
+## 🌍 Live Demo
 
+**Experience the artifact live in your browser:** 🔗 **[norse-artifact-clock.netlify.app](https://norse-artifact-clock.netlify.app)**
 
 
 ## 👁️ Preview

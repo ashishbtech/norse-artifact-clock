@@ -1,5 +1,9 @@
 # 🪓 God of War Artifact Clock
 
+<div align="center">
+  <img src="https://cdn.europosters.eu/image/hp/77631.jpg" alt="God of War Norse Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+</div>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -7,6 +11,8 @@
 A cinematic, highly interactive analog clock inspired by the dark Norse mythology of the **God of War** universe. Built entirely with vanilla web technologies, this project focuses on smooth physics, custom cursor tracking, and atmospheric styling.
 
 > *"Do not be sorry. Be better."* — Kratos
+
+
 
 ## 👁️ Preview
 

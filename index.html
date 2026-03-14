@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <button id="mode-btn" class="theme-btn">Antique Mode</button>
+
+    <main class="container">
+        <div class="main-clock" id="clock">
+            <div class="face-markers" id="markers"></div>
+            
+            <div class="hand hr-hand" id="hr">
+                <div class="hr-shape"></div>
+            </div>
+            <div class="hand min-hand" id="min"></div>
+            <div class="hand sec-hand" id="sec"></div>
+            
+            <div class="center-dot"></div>
+        </div>
+
+        <div class="digital-clock" id="digital">00:00:00</div>
+    </main>
+
+    <div class="pointer-dot" id="ptr-dot"></div>
+    <div class="pointer-trail" id="ptr-trail"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
